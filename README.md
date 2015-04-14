@@ -7,7 +7,7 @@
 1) High Speed Development
 
 Build a powerful, full-stack product in under one hour -- 60 minutes or less!
-This includes RESTful and Websocket API, API documentation in Swagger, and a connected frontend application (see [#multi-platform]()).
+This includes RESTful and Websocket API, API documentation in Swagger, and a connected frontend application (see `multi-platform` below).
 
 2) Multi-Platform
 
@@ -25,16 +25,17 @@ Once you have their attention, without skipping a beat, go straight into product
 
 ### Server
 
-Sails.js
+[Sails.js](http://sailsjs.org/)
 
 #### Database
 
-Sails.js supports many databases with Waterline.
+[Sails.js](http://sailsjs.org/) supports many databases with [Waterline](https://github.com/balderdashy/waterline).
 
 ### Web
 
-React
+[React](https://facebook.github.io/react/)
 
 ### iOS and Android
 
-React Native
+[React Native](http://facebook.github.io/react-native/)
+
