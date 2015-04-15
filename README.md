@@ -11,7 +11,7 @@ This includes RESTful and Websocket API, API documentation in Swagger, and a con
 
 2) Multi-Platform
 
-Support for integrating frontends written for Web, iOS, or Android to the API server.
+Support for integrating frontends written for Web, Mobile (iOS, or Android), or Desktop (Windows, Mac, Linux) to the API server.
 SDKs must be provided for each platform and API must be self-documenting in Swagger.
 RESTful and Websocket API support must be accessible from all platforms.
 
@@ -35,7 +35,11 @@ Once you have their attention, without skipping a beat, go straight into product
 
 [React](https://facebook.github.io/react/)
 
-### iOS and Android
+### Mobile (iOS and Android)
 
 [React Native](http://facebook.github.io/react-native/)
+
+### Desktop (Windows, Mac, Linux)
+
+[nw.js](https://github.com/nwjs/nw.js)
 
