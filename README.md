@@ -37,9 +37,11 @@ Once you have their attention, without skipping a beat, go straight into product
 
 ### Mobile (iOS and Android)
 
+[React](https://facebook.github.io/react/) + 
 [React Native](http://facebook.github.io/react-native/)
 
 ### Desktop (Windows, Mac, Linux)
 
+[React](https://facebook.github.io/react/) +
 [nw.js](https://github.com/nwjs/nw.js)
 
